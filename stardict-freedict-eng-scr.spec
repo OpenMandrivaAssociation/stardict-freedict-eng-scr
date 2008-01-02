@@ -9,6 +9,7 @@ Release:	%{release}
 License:	GPL
 Group:		Databases
 URL:		http://stardict.sourceforge.net/
+Buildroot:	%{_tmppath}/%{name}-%{version}-buildroot
 BuildArch:	noarch
 
 # http://freedict.sourceforge.net/download/linux/eng-scr.tar.gz
