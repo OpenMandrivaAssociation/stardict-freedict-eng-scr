@@ -1,5 +1,5 @@
 %define	version	2.4.2
-%define release %mkrel 7
+%define release %mkrel 8
 %define dict_format_version	2.4.2
 
 Summary:	English -> Serbo-Croat Freedict dictionary for StarDict 2
